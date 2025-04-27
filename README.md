@@ -1,7 +1,7 @@
 # Server-Client Model using RC4 Encryption
 The purpose of this repository is to implement a **server-client model** where the messages being sent and received are encrypted and decrypted using the **RC4** encryption algorithm. This project demonstrates the use of **RC4** in a real-world application for secure communication between the server and client.
 
-## Project Overview
+## Overview
 
 This project simulates a simple communication system between a server and client, with messages being encrypted using the **RC4 encryption algorithm** before being sent over the network. Both the server and client have the ability to:
 
