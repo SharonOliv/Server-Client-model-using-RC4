@@ -3,7 +3,7 @@ The purpose of this repository is to implement a **server-client model** where t
 
 ## Overview
 
-This project simulates a simple communication system between a server and client, with messages being encrypted using the **RC4 encryption algorithm** before being sent over the network. Both the server and client have the ability to:
+This repository gives simulation a simple communication system between a server and client, with messages being encrypted using the **RC4 encryption algorithm** before being sent over the network. Both the server and client have the ability to:
 
 - **Encrypt** the message using RC4 before transmission.
 - **Decrypt** the message upon receiving it to retrieve the original text.
@@ -33,7 +33,7 @@ This project simulates a simple communication system between a server and client
    python server.py
    ```
 
-3. Run the client:
+3. Run the client (in another terminal):
    ```bash
    python client.py
    ```
